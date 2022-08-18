@@ -1,1 +1,2 @@
-![](slide_animation.gif | width=100)
+Original Articles of discussion of memory leak
+(https://medium.com/cheesecake-labs/android-architecture-components-you-are-probably-leaking-viewmodel-and-might-not-know-why-40cec2531c5e)](https://medium.com/cheesecake-labs/android-architecture-components-you-are-probably-leaking-viewmodel-and-might-not-know-why-40cec2531c5e)
